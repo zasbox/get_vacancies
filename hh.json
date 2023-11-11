@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Бэкенд-разработчик в Яндекс (Python/Java/C++/С#/Go/Scala)",
+        "url": "https://api.hh.ru/areas/113",
+        "salary": 0,
+        "requirement": "Опыт коммерческой разработки не менее трёх лет на одном из языков: Python, Java, C++, С#, Go, Scala."
+    },
+    {
+        "name": "Back End developer ( Strong Junior/ Middle)",
+        "url": "https://api.hh.ru/areas/2759",
+        "salary": 10000000,
+        "requirement": "Знание PHP, Go, ASP, C/C++, Python, Ruby, Java,JavaScript, Apache, NGINX, IIS,API."
+    },
+    {
+        "name": "Младший тестировщик",
+        "url": "https://api.hh.ru/areas/1",
+        "salary": 150000,
+        "requirement": "Желание развиваться в сфере тестирования программного обеспечения. - Базовые знания в области разработки программного обеспечения и тестирования, включая понимание основных принципов..."
+    },
+    {
+        "name": "Программист Python",
+        "url": "https://api.hh.ru/areas/1",
+        "salary": 170,
+        "requirement": "Высшее техническое образование (математики, физики, энергетики - плюс). Хорошее знание Python и/или Wolfram Mathematica или желание и возможность их выучить. "
+    },
+    {
+        "name": "Стажер-программист Python",
+        "url": "https://api.hh.ru/areas/88",
+        "salary": 0,
+        "requirement": "Опыт Python от 1 года, в т.ч. библиотеки: (Pandas, NumPy, Scikit-Learn). - Опыт работы с системой контроля версий Git..."
+    },
+    {
+        "name": "Программист",
+        "url": "https://api.hh.ru/areas/160",
+        "salary": 0,
+        "requirement": "Знание языка программирования Python; фреймворка Django; базы данных PostgreSQL, MySQL; HTML; CSS."
+    },
+    {
+        "name": "Backend разработчик",
+        "url": "https://api.hh.ru/areas/2759",
+        "salary": 0,
+        "requirement": "Обучение и передача знаний другим сотрудникам. Умением читать чужой код и разрабатывать его в дальнейшем. База данных: MySQL,PostgreSQL,SQL."
+    },
+    {
+        "name": "Junior Data Engineer",
+        "url": "https://api.hh.ru/areas/160",
+        "salary": 0,
+        "requirement": "Владение стеком Python. Знание SQL. Знание статистики и математики. Знание PySpark/sparksql."
+    },
+    {
+        "name": "Стажер в Команду машинного обучения",
+        "url": "https://api.hh.ru/areas/2",
+        "salary": 0,
+        "requirement": "Знание и опыт работы с Python, а также с библиотеками для машинного обучения, такими как PyTorch, scikit-learn, huggingface, TensorFlow. "
+    },
+    {
+        "name": "Python-разработчик Junior",
+        "url": "https://api.hh.ru/areas/1",
+        "salary": 0,
+        "requirement": "Ответственность, исполнительность. Профильное образование не ниже среднего. Знание SQL, Python. Опыт настройки интеграций, умение читать документации."
+    },
+    {
+        "name": "Помощник программиста (удаленно)",
+        "url": "https://api.hh.ru/areas/1",
+        "salary": 0,
+        "requirement": "Рассматриваем кандидатов с базовыми знаниями без большого опыта! Асинхронное sqlalchemy (asyncpg). Loguru. Уметь работать с базами данных: MariaDB\\MySQL. PostreSQL. "
+    },
+    {
+        "name": "Специалист отдела офис данных",
+        "url": "https://api.hh.ru/areas/1002",
+        "salary": 0,
+        "requirement": "Знание SQL (join-ы, вложенные запросы, оконные функции), Python. Практический опыт работы с BI-инструментами ( желательно Microsoft Power BI и..."
+    },
+    {
+        "name": "Главный специалист",
+        "url": "https://api.hh.ru/areas/95",
+        "salary": 0,
+        "requirement": "Знание, опыт практической работы с Node.js, TypeScript, NestJS, PostgreSQL, базовый фронтэнд. Знание Python и PHP приветсвуется. Владение английским на уровне..."
+    },
+    {
+        "name": "Junior Data Scientist\\Junior Data Engineer (Стажер)",
+        "url": "https://api.hh.ru/areas/24",
+        "salary": 0,
+        "requirement": "...гистограммами и методом связанных компонент на бинарных изображениях. - Базовое владение Python. - Опыт работы с Google Colab и Jupyter Notebook. "
+    },
+    {
+        "name": "Программист-стажер",
+        "url": "https://api.hh.ru/areas/53",
+        "salary": 30000,
+        "requirement": "Понимание основ программирования и опыт применения на практике хотя бы одного из перечисленных языков программирования: Java, Go, Python, javascript, PHP. "
+    },
+    {
+        "name": "Ведущий ИТ-аналитик",
+        "url": "https://api.hh.ru/areas/1",
+        "salary": 0,
+        "requirement": "...умение работать с большим объемом данных, UML, BPMN, базовые знания SQL, MS PowerPoint/Word/Excel. Дополнительным плюсом будет знание Python."
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://api.hh.ru/areas/1",
+        "salary": 220000,
+        "requirement": "Python на уровне уверенного пользователя (pandas, numpy, другие стандартные питон-библиотеки). Базовые навыки работы с табличными данными, знание SQL. "
+    },
+    {
+        "name": "Python инженер",
+        "url": "https://api.hh.ru/areas/1",
+        "salary": 0,
+        "requirement": "Django REST Framework (DRF). MySQL / PgSQL. Плюсом будет: Docker / Docker compose. Flask. Java / Scala / Clojour. Опыт практического применения функциональных языков..."
+    },
+    {
+        "name": "Junior Low-code (Python) developer",
+        "url": "https://api.hh.ru/areas/2",
+        "salary": 0,
+        "requirement": "Высшее образование. Минимальная практика Python. Тероретическое понимание ООП, базовых паттернов проектирования, принципов работы с базами данных (PostgreSQL), принципов взаимодействия серверных..."
+    },
+    {
+        "name": "Python Developer",
+        "url": "<https://hh.ru/vacancy/123456>",
+        "salary": 100000,
+        "requirement": "Требования: опыт работы от 3 лет..."
+    },
+    {
+        "name": "Java Developer",
+        "url": "<https://hh.ru/vacancy/123456>",
+        "salary": 120000,
+        "requirement": "Требования: опыт работы от 5 лет..."
+    }
+]
